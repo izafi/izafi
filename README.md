@@ -5,16 +5,16 @@
 
 <br/>
 
-<h3>🚀 Frontend Developer | React.js Enthusiast | UI/UX Focused Web Developer</h3>
+<h3> Frontend Developer | React.js Enthusiast | UI/UX Focused Web Developer</h3>
 
 <p>
   <a href="https://github.com/" target="_blank">
     <img src="https://img.shields.io/badge/🌐 Portfolio-Coming%20Soon-00D9FF?style=for-the-badge&labelColor=0D1117" />
   </a>
-  <a href="https://linkedin.com/" target="_blank">
+  <a href="https://www.linkedin.com/in/muhammad-huzaifa-896229388/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:yourgmail@gmail.com">
+  <a href="mailto:huzaifazafi156@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
